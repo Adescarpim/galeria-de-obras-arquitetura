@@ -74,6 +74,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <option value="Oceania">Oceania</option>
         </select>
 
+        <label for="descricao">Descrição / História / Curiosidades:</label>
+        <textarea name="descricao" id="descricao" rows="4" required></textarea>
+
         <label for="imagem1">Imagem 1 (URL):</label>
         <input type="text" name="imagens[]" id="imagem1" required>
 

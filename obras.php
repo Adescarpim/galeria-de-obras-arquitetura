@@ -231,7 +231,7 @@ $obras = array (
     'arquiteto' => 'Desconhecido',
     'ano' => 1800,
     'continente' => 'África',
-    'descricao' => NULL,
+    'descricao' => 'É a maior estrutura de barro do mundo e exemplo da arquitetura saheliana. A cada ano, toda a comunidade de Djenné participa de um festival para renovar a estrutura com barro fresco, preservando suas raízes culturais e históricas. Além de ser um ícone religioso, ela simboliza a engenhosidade e unidade da comunidade local',
     'imagens' => 
     array (
       0 => 'img/Africa/djenne1.jpg',

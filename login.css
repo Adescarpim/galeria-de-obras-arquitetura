@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background-color: #edf6f9;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+form {
+    background-color: white;
+    display: inline-block;
+    padding: 25px 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+input[type="text"],
+input[type="password"],
+input[type="submit"] {
+    padding: 10px;
+    margin: 10px 0;
+    width: 250px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
